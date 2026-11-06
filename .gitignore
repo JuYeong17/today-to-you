@@ -4,3 +4,6 @@ out/
 *.tsbuildinfo
 .env*
 .DS_Store
+
+# Personal development notes (local only)
+/.local/
